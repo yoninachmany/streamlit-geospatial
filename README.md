@@ -1,4 +1,4 @@
-# SatTiles
+# Chips
 
 ## Team Members
 
