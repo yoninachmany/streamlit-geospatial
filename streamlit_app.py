@@ -29,7 +29,7 @@ def ee_authenticate(token_name="EARTHENGINE_TOKEN"):
 st.sidebar.title("About")
 st.sidebar.info(
     """
-    Web App URL: <https://yoninachmany-streamlit-geospatial-streamlit-app-1qn4j9.streamlitapp.com/Chips>
+    Web App URL: <https://yoninachmany-streamlit-geospatial-streamlit-app-1qn4j9.streamlitapp.com/>
     GitHub repository: <https://github.com/yoninachmany/streamlit-geospatial>
     """
 )
