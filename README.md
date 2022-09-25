@@ -57,6 +57,7 @@ Potential next steps for the tool include:
 - Modifying the size and shape of image crops (adding a circular crop option)
 - Interacting with images (selecting, copying, removing images)
 - Increasing performance of image downloading
+- Including links to images for faster downloading
 
 Our tool is limited to working with data in Google Earth Engine, not commercial map providers. In addition, we have not fully tested the edge cases of our satellite imagery queries or tried optimizing for speed.
 
