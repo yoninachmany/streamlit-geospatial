@@ -977,7 +977,7 @@ def app():
 
     with row1_col1:
 
-        st.image(downloads, width=250, use_column_width='never')
+        st.image(downloads, width=250)
 
     with row1_col1:
         with open('./images.zip', 'rb') as zip_file:

@@ -18,6 +18,16 @@ START_DATE_STR = START_DATE.strftime("%Y-%m-%d")
 OUT_DIR = os.path.expanduser('./downloads/')
 RADIUS = 800
 
+def getUrl(image, vis_params):
+    return image.visualize(
+        bands=vis_params['bands'], min=vis_params['min'],
+        max=vis_params['max'],  gamma=vis_params['gamma']
+    ).getThumbURL({
+        'format': 'jpg',
+        'scale': 1
+    })
+
+
 def getImgForAoi(aoi, imageCollectionAssetId, latest):
 
     if imageCollectionAssetId == 'USDA/NAIP/DOQQ':
@@ -137,6 +147,19 @@ def generate_and_download_chips(roi, bands, dimensions, title, title_xy,
 
     os.system("rm -rf ./downloads/*.jpg")
 
+    def _url_helper(image):
+        return getUrl(image, vis_params)
+
+
+    num_images = images_collection.size().getInfo()
+
+    images_list = images_collection.toList(num_images)
+
+    # urls = []
+    #
+    # for img_idx in range(num_images):
+        # urls.append(getUrl(ee.Image(images_list.get(img_idx)), vis_params))
+
     geemap.get_image_collection_thumbnails(
         images_collection, OUT_DIR, vis_params, dimensions=500, format="jpg"
         # names = names_collection
@@ -149,4 +172,5 @@ def generate_and_download_chips(roi, bands, dimensions, title, title_xy,
         img_with_border = ImageOps.expand(img, border=10, fill='white')
         img_with_border.save(img_filename)
 
+    # return urls
     return list(filter(lambda file: ".jpg" in file, map(lambda f: os.path.join(OUT_DIR, f), os.listdir(OUT_DIR))))

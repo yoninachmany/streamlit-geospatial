@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "russian_naval_bases_infantry",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Unit 40630 Mobile communications hub for Naval Infantry", "description": "https://vk.com/club10804446", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 33.191944444444403, 68.860833333333304 ] } },
+{ "type": "Feature", "properties": { "Name": "Northern Fleet Special Forces", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 33.1893539, 68.8590675 ] } },
+{ "type": "Feature", "properties": { "Name": "127-th Ind. Marine Engineer Battalion ", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 20.000833333333301, 54.74 ] } },
+{ "type": "Feature", "properties": { "Name": "414th detached Naval Infantry Battalion ", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 47.670555555555602, 42.869722222222201 ] } },
+{ "type": "Feature", "properties": { "Name": "Unit 36324 Marines", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 131.383333333333013, 42.876388888888897 ] } },
+{ "type": "Feature", "properties": { "Name": "Unit 36199 Marine infrantry", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 132.5597692, 42.9012601 ] } },
+{ "type": "Feature", "properties": { "Name": "Unit Marine Infantry 63916", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 133.055, 42.764166666666704 ] } }
+]
+}

@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>tra0002</name>
+<Schema name="tra0002" id="tra0002">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="TRA0002_" type="float"></SimpleField>
+	<SimpleField name="TRA0002_ID" type="float"></SimpleField>
+	<SimpleField name="LONGITUD" type="float"></SimpleField>
+	<SimpleField name="LATITUDE" type="float"></SimpleField>
+	<SimpleField name="CITY" type="string"></SimpleField>
+	<SimpleField name="COUNTY" type="string"></SimpleField>
+	<SimpleField name="OWNER" type="string"></SimpleField>
+	<SimpleField name="ELEVATN" type="float"></SimpleField>
+	<SimpleField name="FACILITI" type="string"></SimpleField>
+	<SimpleField name="TRAFFPAT" type="string"></SimpleField>
+	<SimpleField name="TELEPHON" type="string"></SimpleField>
+	<SimpleField name="NOTES" type="string"></SimpleField>
+	<SimpleField name="ABBREVTN" type="string"></SimpleField>
+	<SimpleField name="COMMUNCN" type="string"></SimpleField>
+	<SimpleField name="LANDINGL" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>MORIARTY MUNICIPAL</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">MORIARTY MUNICIPAL</SimpleData>
+		<SimpleData name="TRA0002_">1</SimpleData>
+		<SimpleData name="TRA0002_ID">1</SimpleData>
+		<SimpleData name="LONGITUD">-106.004707</SimpleData>
+		<SimpleData name="LATITUDE">34.984798</SimpleData>
+		<SimpleData name="CITY">MORIARTY</SimpleData>
+		<SimpleData name="COUNTY">TORRANCE</SimpleData>
+		<SimpleData name="OWNER">CITY OF MORIARTY</SimpleData>
+		<SimpleData name="ELEVATN">6201</SimpleData>
+		<SimpleData name="FACILITI">PCL;A&amp;P;Tran;Tel;Gas</SimpleData>
+		<SimpleData name="TRAFFPAT">7200' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 832-0755</SimpleData>
+		<SimpleData name="NOTES">Extensive glider activity on weekends.</SimpleData>
+		<SimpleData name="ABBREVTN">0E0</SimpleData>
+		<SimpleData name="COMMUNCN">CTAF 122.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.005287170410142,34.984848022460938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CROWNPOINT</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">CROWNPOINT</SimpleData>
+		<SimpleData name="TRA0002_">2</SimpleData>
+		<SimpleData name="TRA0002_ID">2</SimpleData>
+		<SimpleData name="LONGITUD">-108.200600</SimpleData>
+		<SimpleData name="LATITUDE">35.715900</SimpleData>
+		<SimpleData name="CITY">CROWNPOINT</SimpleData>
+		<SimpleData name="COUNTY">MC KINLEY</SimpleData>
+		<SimpleData name="OWNER">NAVAJO TRIBE DOT</SimpleData>
+		<SimpleData name="ELEVATN">6660</SimpleData>
+		<SimpleData name="TRAFFPAT">7660' MSL</SimpleData>
+		<SimpleData name="NOTES">Airport advisory not available on UNICOM</SimpleData>
+		<SimpleData name="ABBREVTN">OE8</SimpleData>
+		<SimpleData name="COMMUNCN">U; CTAF 122.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-108.201225280761719,35.715919494628906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NAVAJO LAKE STATE PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">NAVAJO LAKE STATE PARK</SimpleData>
+		<SimpleData name="TRA0002_">3</SimpleData>
+		<SimpleData name="TRA0002_ID">3</SimpleData>
+		<SimpleData name="LONGITUD">-107.651398</SimpleData>
+		<SimpleData name="LATITUDE">36.808300</SimpleData>
+		<SimpleData name="CITY">NAVAJO DAM</SimpleData>
+		<SimpleData name="COUNTY">SAN JUAN</SimpleData>
+		<SimpleData name="OWNER">GENERAL SERVICES DEPT.</SimpleData>
+		<SimpleData name="ELEVATN">6475</SimpleData>
+		<SimpleData name="TRAFFPAT">7275' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 827-1525</SimpleData>
+		<SimpleData name="NOTES">Airport clsed from sunser to sunrise.</SimpleData>
+		<SimpleData name="ABBREVTN">1V0</SimpleData>
+		<SimpleData name="COMMUNCN">CTAF 122.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-107.652008056640625,36.808303833007812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CORONADO</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">CORONADO</SimpleData>
+		<SimpleData name="TRA0002_">4</SimpleData>
+		<SimpleData name="TRA0002_ID">4</SimpleData>
+		<SimpleData name="LONGITUD">-106.573402</SimpleData>
+		<SimpleData name="LATITUDE">35.195900</SimpleData>
+		<SimpleData name="CITY">ALBUQUERQUE</SimpleData>
+		<SimpleData name="COUNTY">BERNALILLO</SimpleData>
+		<SimpleData name="OWNER">RESOLUTION TRUST CORP.</SimpleData>
+		<SimpleData name="ELEVATN">5280</SimpleData>
+		<SimpleData name="FACILITI">Gas;A&amp;P;Hgr;Tel;Tran;PCL</SimpleData>
+		<SimpleData name="TRAFFPAT">6200' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 821-7777</SimpleData>
+		<SimpleData name="ABBREVTN">4AC</SimpleData>
+		<SimpleData name="COMMUNCN">U/CTAF 122.8</SimpleData>
+		<SimpleData name="LANDINGL">RW 17-35--3810'</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.573982238769531,35.195941925048828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DONA ANA COUNTY AT SANTA TERESA</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">DONA ANA COUNTY AT SANTA TERESA</SimpleData>
+		<SimpleData name="TRA0002_">5</SimpleData>
+		<SimpleData name="TRA0002_ID">5</SimpleData>
+		<SimpleData name="LONGITUD">-106.704803</SimpleData>
+		<SimpleData name="LATITUDE">31.881001</SimpleData>
+		<SimpleData name="CITY">SANTA TERESA</SimpleData>
+		<SimpleData name="COUNTY">DONA ANA</SimpleData>
+		<SimpleData name="OWNER">DONA ANA COUNTY</SimpleData>
+		<SimpleData name="ELEVATN">4112</SimpleData>
+		<SimpleData name="FACILITI">Gas;A&amp;P;Hgr;Tel;Tran;PCL</SimpleData>
+		<SimpleData name="TRAFFPAT">5100' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 589-1232</SimpleData>
+		<SimpleData name="ABBREVTN">5T6</SimpleData>
+		<SimpleData name="COMMUNCN">U/CTAF 122.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.705352783203125,31.881105422973633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SHIPROCK</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">SHIPROCK</SimpleData>
+		<SimpleData name="TRA0002_">6</SimpleData>
+		<SimpleData name="TRA0002_ID">6</SimpleData>
+		<SimpleData name="LONGITUD">-108.701202</SimpleData>
+		<SimpleData name="LATITUDE">36.697800</SimpleData>
+		<SimpleData name="CITY">SHIPROCK</SimpleData>
+		<SimpleData name="COUNTY">SAN JUAN</SimpleData>
+		<SimpleData name="OWNER">NAVAJO TRIBE</SimpleData>
+		<SimpleData name="ELEVATN">5270</SimpleData>
+		<SimpleData name="TRAFFPAT">6070' MSL</SimpleData>
+		<SimpleData name="NOTES">3 bumps in pavement on approach end of rwy 20.</SimpleData>
+		<SimpleData name="ABBREVTN">5V5</SimpleData>
+		<SimpleData name="COMMUNCN">CTAF 122.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-108.70184326171875,36.697799682617188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WHISKEY CREEK</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">WHISKEY CREEK</SimpleData>
+		<SimpleData name="TRA0002_">7</SimpleData>
+		<SimpleData name="TRA0002_ID">7</SimpleData>
+		<SimpleData name="LONGITUD">-108.208397</SimpleData>
+		<SimpleData name="LATITUDE">32.762001</SimpleData>
+		<SimpleData name="CITY">SILVER CITY</SimpleData>
+		<SimpleData name="COUNTY">GRANT</SimpleData>
+		<SimpleData name="OWNER">CLINT JOHNSON</SimpleData>
+		<SimpleData name="ELEVATN">6126</SimpleData>
+		<SimpleData name="FACILITI">Gas;Jet;A&amp;P;Hgr;Tel;PCL</SimpleData>
+		<SimpleData name="TRAFFPAT">7126' MSL</SimpleData>
+		<SimpleData name="NOTES">Runway 13/31 slopes steeply down to southeast.</SimpleData>
+		<SimpleData name="ABBREVTN">94E</SimpleData>
+		<SimpleData name="COMMUNCN">U/CTAF 122.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-108.208999633789062,32.762077331542969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALBUQUERQUE INTL</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">ALBUQUERQUE INTL</SimpleData>
+		<SimpleData name="TRA0002_">8</SimpleData>
+		<SimpleData name="TRA0002_ID">8</SimpleData>
+		<SimpleData name="LONGITUD">-106.608704</SimpleData>
+		<SimpleData name="LATITUDE">35.040901</SimpleData>
+		<SimpleData name="CITY">ALBUQUERQUE</SimpleData>
+		<SimpleData name="COUNTY">BERNALILLO</SimpleData>
+		<SimpleData name="OWNER">CITY OF ALBUQUERQUE</SimpleData>
+		<SimpleData name="ELEVATN">5352</SimpleData>
+		<SimpleData name="FACILITI">Gas;Jet:A&amp;P;Hgr;Tel;Tran</SimpleData>
+		<SimpleData name="TRAFFPAT">Altitude Assigned by Tower/700</SimpleData>
+		<SimpleData name="ABBREVTN">ABQ</SimpleData>
+		<SimpleData name="COMMUNCN">U 122.95 FSS</SimpleData>
+		<SimpleData name="LANDINGL">RW 8--12,784';RW 17--9110'</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.609283447265625,35.040950775146484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DOUBLE EAGLE II</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">DOUBLE EAGLE II</SimpleData>
+		<SimpleData name="TRA0002_">9</SimpleData>
+		<SimpleData name="TRA0002_ID">9</SimpleData>
+		<SimpleData name="LONGITUD">-106.795197</SimpleData>
+		<SimpleData name="LATITUDE">35.145199</SimpleData>
+		<SimpleData name="CITY">ALBUQUERQUE</SimpleData>
+		<SimpleData name="COUNTY">BERNALILLO</SimpleData>
+		<SimpleData name="OWNER">CITY OF ALBUQUERQUE</SimpleData>
+		<SimpleData name="ELEVATN">5834</SimpleData>
+		<SimpleData name="FACILITI">Gas;Jet;A&amp;P;Hgr;Tel;Tran;PCL</SimpleData>
+		<SimpleData name="TRAFFPAT">6800' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 842-7007</SimpleData>
+		<SimpleData name="NOTES">Extensive Flight Training Activity</SimpleData>
+		<SimpleData name="ABBREVTN">AEG</SimpleData>
+		<SimpleData name="COMMUNCN">U/CTAF 122.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.795783996582031,35.145240783691406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALAMOGORDO-WHITE SANDS REGIONAL</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">ALAMOGORDO-WHITE SANDS REGIONAL</SimpleData>
+		<SimpleData name="TRA0002_">10</SimpleData>
+		<SimpleData name="TRA0002_ID">10</SimpleData>
+		<SimpleData name="LONGITUD">-105.990601</SimpleData>
+		<SimpleData name="LATITUDE">32.839901</SimpleData>
+		<SimpleData name="CITY">ALAMOGORDO</SimpleData>
+		<SimpleData name="COUNTY">OTERO</SimpleData>
+		<SimpleData name="OWNER">CITY OF ALAMOGORDO</SimpleData>
+		<SimpleData name="ELEVATN">4197</SimpleData>
+		<SimpleData name="FACILITI">Gas;Jet;A&amp;P;Hgr;Tel;Tran;PCL</SimpleData>
+		<SimpleData name="TRAFFPAT">5197' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 430-8750</SimpleData>
+		<SimpleData name="ABBREVTN">ALM</SimpleData>
+		<SimpleData name="COMMUNCN">U/CTAF 122.8; AWOS 127.825 Tel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.991142272949219,32.839988708496094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARTESIA MUNICPAL</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">ARTESIA MUNICPAL</SimpleData>
+		<SimpleData name="TRA0002_">11</SimpleData>
+		<SimpleData name="TRA0002_ID">11</SimpleData>
+		<SimpleData name="LONGITUD">-104.467697</SimpleData>
+		<SimpleData name="LATITUDE">32.852501</SimpleData>
+		<SimpleData name="CITY">ARTESIA</SimpleData>
+		<SimpleData name="COUNTY">EDDY</SimpleData>
+		<SimpleData name="OWNER">CITY OF ARTESIA</SimpleData>
+		<SimpleData name="ELEVATN">3548</SimpleData>
+		<SimpleData name="FACILITI">Gas;Jet;A&amp;P;Hgr;Tel;Tran;PCL</SimpleData>
+		<SimpleData name="TRAFFPAT">4548' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 748-3206</SimpleData>
+		<SimpleData name="ABBREVTN">ATS</SimpleData>
+		<SimpleData name="COMMUNCN">U/CTAF 122.8;AWOS 126.725 Tel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.468215942382812,32.852611541748047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANGEL FIRE</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">ANGEL FIRE</SimpleData>
+		<SimpleData name="TRA0002_">12</SimpleData>
+		<SimpleData name="TRA0002_ID">12</SimpleData>
+		<SimpleData name="LONGITUD">-105.290001</SimpleData>
+		<SimpleData name="LATITUDE">36.420601</SimpleData>
+		<SimpleData name="CITY">ANGEL FIRE</SimpleData>
+		<SimpleData name="COUNTY">COLFAX</SimpleData>
+		<SimpleData name="OWNER">COLFAX COUNTY</SimpleData>
+		<SimpleData name="ELEVATN">8382</SimpleData>
+		<SimpleData name="FACILITI">Gas;Jet;A&amp;P;Tel</SimpleData>
+		<SimpleData name="TRAFFPAT">9382' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 377-3160</SimpleData>
+		<SimpleData name="NOTES">Terrain rises rapidly in all directions.  Check density altitude.</SimpleData>
+		<SimpleData name="ABBREVTN">AXX</SimpleData>
+		<SimpleData name="COMMUNCN">U/CTAF 122.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.290565490722656,36.420631408691399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CLAYTON MUNICIPAL</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">CLAYTON MUNICIPAL</SimpleData>
+		<SimpleData name="TRA0002_">13</SimpleData>
+		<SimpleData name="TRA0002_ID">13</SimpleData>
+		<SimpleData name="LONGITUD">-103.154701</SimpleData>
+		<SimpleData name="LATITUDE">36.445900</SimpleData>
+		<SimpleData name="CITY">CLAYTON</SimpleData>
+		<SimpleData name="COUNTY">UNION</SimpleData>
+		<SimpleData name="OWNER">TOWN OF CLAYTON</SimpleData>
+		<SimpleData name="ELEVATN">4963</SimpleData>
+		<SimpleData name="FACILITI">Gas;Jet;Tel;Tran;PCL</SimpleData>
+		<SimpleData name="TRAFFPAT">5963' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 374-9873</SimpleData>
+		<SimpleData name="NOTES">Wildlife on RWY</SimpleData>
+		<SimpleData name="ABBREVTN">CAO</SimpleData>
+		<SimpleData name="COMMUNCN">ASOS 120.625 TEL 374 2565</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.155189514160156,36.445926666259766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CLOVIS MUNICIPAL</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">CLOVIS MUNICIPAL</SimpleData>
+		<SimpleData name="TRA0002_">14</SimpleData>
+		<SimpleData name="TRA0002_ID">14</SimpleData>
+		<SimpleData name="LONGITUD">-103.079292</SimpleData>
+		<SimpleData name="LATITUDE">34.425201</SimpleData>
+		<SimpleData name="CITY">CLOVIS</SimpleData>
+		<SimpleData name="COUNTY">CURRY</SimpleData>
+		<SimpleData name="OWNER">CITY OF CLOVIS</SimpleData>
+		<SimpleData name="ELEVATN">4214</SimpleData>
+		<SimpleData name="FACILITI">Gas;Jet;A&amp;P;Hgr;Tel;Tran;PCL</SimpleData>
+		<SimpleData name="TRAFFPAT">5014' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 769-7890</SimpleData>
+		<SimpleData name="ABBREVTN">CVN</SimpleData>
+		<SimpleData name="COMMUNCN">U/CTAF122.8; AWOS Tel 389-7890</SimpleData>
+		<SimpleData name="LANDINGL">RW 4--5400'; RW 8--2539'</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.079795837402344,34.425277709960938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DEMING MUNICIPAL</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">DEMING MUNICIPAL</SimpleData>
+		<SimpleData name="TRA0002_">15</SimpleData>
+		<SimpleData name="TRA0002_ID">15</SimpleData>
+		<SimpleData name="LONGITUD">-107.720596</SimpleData>
+		<SimpleData name="LATITUDE">32.262299</SimpleData>
+		<SimpleData name="CITY">DEMING</SimpleData>
+		<SimpleData name="COUNTY">LUNA</SimpleData>
+		<SimpleData name="OWNER">CITY OF DEMING</SimpleData>
+		<SimpleData name="ELEVATN">4309</SimpleData>
+		<SimpleData name="FACILITI">Gas;Jet;A&amp;P;Hgr;Tel;PCL;TRAN</SimpleData>
+		<SimpleData name="TRAFFPAT">5309' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 546-8848</SimpleData>
+		<SimpleData name="ABBREVTN">DMN</SimpleData>
+		<SimpleData name="COMMUNCN">U 122.95; CTAF 123.6; ASOS Tel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-107.721183776855469,32.262386322021484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EUNICE LEA COUNTY</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">EUNICE LEA COUNTY</SimpleData>
+		<SimpleData name="TRA0002_">16</SimpleData>
+		<SimpleData name="TRA0002_ID">16</SimpleData>
+		<SimpleData name="LONGITUD">-103.240494</SimpleData>
+		<SimpleData name="LATITUDE">32.456799</SimpleData>
+		<SimpleData name="CITY">EUNICE</SimpleData>
+		<SimpleData name="COUNTY">LEA</SimpleData>
+		<SimpleData name="OWNER">LEA COUNTY</SimpleData>
+		<SimpleData name="ELEVATN">3569</SimpleData>
+		<SimpleData name="TRAFFPAT">4569' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 393-4943</SimpleData>
+		<SimpleData name="ABBREVTN">E04</SimpleData>
+		<SimpleData name="COMMUNCN">CTAF 122.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.240966796874986,32.456924438476562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HATCH MUNICIPAL</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">HATCH MUNICIPAL</SimpleData>
+		<SimpleData name="TRA0002_">17</SimpleData>
+		<SimpleData name="TRA0002_ID">17</SimpleData>
+		<SimpleData name="LONGITUD">-107.190002</SimpleData>
+		<SimpleData name="LATITUDE">32.658401</SimpleData>
+		<SimpleData name="CITY">HATCH</SimpleData>
+		<SimpleData name="COUNTY">DONA ANA</SimpleData>
+		<SimpleData name="OWNER">VILLAGE OF HATCH</SimpleData>
+		<SimpleData name="ELEVATN">4118</SimpleData>
+		<SimpleData name="TRAFFPAT">5118' MSL</SimpleData>
+		<SimpleData name="NOTES">Light pole in approach to runway 29, and possible hazardous runway con</SimpleData>
+		<SimpleData name="ABBREVTN">E05</SimpleData>
+		<SimpleData name="COMMUNCN">CTAF 122.9</SimpleData>
+		<SimpleData name="LANDINGL">RW 29-3115'</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-107.190574645996094,32.658481597900391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LEA COUNTY-ZIP FRANKLIN MEMORIAL</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">LEA COUNTY-ZIP FRANKLIN MEMORIAL</SimpleData>
+		<SimpleData name="TRA0002_">18</SimpleData>
+		<SimpleData name="TRA0002_ID">18</SimpleData>
+		<SimpleData name="LONGITUD">-103.408798</SimpleData>
+		<SimpleData name="LATITUDE">32.953899</SimpleData>
+		<SimpleData name="CITY">LOVINGTON</SimpleData>
+		<SimpleData name="COUNTY">LEA</SimpleData>
+		<SimpleData name="OWNER">LEA COUNTY</SimpleData>
+		<SimpleData name="ELEVATN">3978</SimpleData>
+		<SimpleData name="FACILITI">Gas;Jet;Tel:PCL</SimpleData>
+		<SimpleData name="TRAFFPAT">4978' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 393-4943</SimpleData>
+		<SimpleData name="ABBREVTN">E06</SimpleData>
+		<SimpleData name="COMMUNCN">U/CTAF 122.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.4093017578125,32.954017639160156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TATUM LEA COUNTY</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">TATUM LEA COUNTY</SimpleData>
+		<SimpleData name="TRA0002_">19</SimpleData>
+		<SimpleData name="TRA0002_ID">19</SimpleData>
+		<SimpleData name="LONGITUD">-103.276894</SimpleData>
+		<SimpleData name="LATITUDE">33.261200</SimpleData>
+		<SimpleData name="CITY">TATUM</SimpleData>
+		<SimpleData name="COUNTY">LEA</SimpleData>
+		<SimpleData name="OWNER">LEA COUNTY</SimpleData>
+		<SimpleData name="ELEVATN">3986</SimpleData>
+		<SimpleData name="FACILITI">Tel</SimpleData>
+		<SimpleData name="TRAFFPAT">4986' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 827-1525</SimpleData>
+		<SimpleData name="ABBREVTN">E07</SimpleData>
+		<SimpleData name="COMMUNCN">CTAF 122.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.277397155761719,33.261310577392578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JAL LEA COUNTY</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">JAL LEA COUNTY</SimpleData>
+		<SimpleData name="TRA0002_">20</SimpleData>
+		<SimpleData name="TRA0002_ID">20</SimpleData>
+		<SimpleData name="LONGITUD">-103.154900</SimpleData>
+		<SimpleData name="LATITUDE">32.131199</SimpleData>
+		<SimpleData name="CITY">JAL</SimpleData>
+		<SimpleData name="COUNTY">LEA</SimpleData>
+		<SimpleData name="OWNER">LEA COUNTY</SimpleData>
+		<SimpleData name="ELEVATN">3115</SimpleData>
+		<SimpleData name="FACILITI">PCL;Tel</SimpleData>
+		<SimpleData name="TRAFFPAT">4115' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 393-4943</SimpleData>
+		<SimpleData name="ABBREVTN">E26</SimpleData>
+		<SimpleData name="COMMUNCN">CTAF 122.9</SimpleData>
+		<SimpleData name="LANDINGL">RW 9--2485'; RW 27--2480'</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.155357360839844,32.131324768066406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CARLSBAD CAVERN CITY</name>
+	<ExtendedData><SchemaData schemaUrl="#tra0002">
+		<SimpleData name="Name">CARLSBAD CAVERN CITY</SimpleData>
+		<SimpleData name="TRA0002_">21</SimpleData>
+		<SimpleData name="TRA0002_ID">21</SimpleData>
+		<SimpleData name="LONGITUD">-104.358597</SimpleData>
+		<SimpleData name="LATITUDE">32.175400</SimpleData>
+		<SimpleData name="CITY">WHITES CITY</SimpleData>
+		<SimpleData name="COUNTY">EDDY</SimpleData>
+		<SimpleData name="OWNER">WHITE CITY INC.</SimpleData>
+		<SimpleData name="ELEVATN">3613</SimpleData>
+		<SimpleData name="FACILITI">Gas;Jet;A&amp;P;Tel;Tran;PCL</SimpleData>
+		<SimpleData name="TRAFFPAT">4293' MSL</SimpleData>
+		<SimpleData name="TELEPHON">(505) 887-3060</SimpleData>
+		<SimpleData name="ABBREVTN">CNM</SimpleData>
+		<SimpleData name="COMMUNCN">U 122.95; CTAF 123.6</SimpleData>
+		<SimpleData name="LANDINGL">RW 26--5329';RW 32R--4005'</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.359100341796875,32.175518035888672</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
